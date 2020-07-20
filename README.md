@@ -1,4 +1,4 @@
-# titanic_death_Prediction
+# Titanic_Survivor_Prediction
 PROJECT DESCRIPTION: In this project I have predicted which passenger survived the titanic ship wreck using Logistic regresion.
 In order to predict the death of a particular passenger I have used some other standards of correctness which are:  Precision  Recall  F1-score  Support These all standard of correctness are depend upon the Actual and Predict class, so i draw a 2×2 confusion matrix .
 
